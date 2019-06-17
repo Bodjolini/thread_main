@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration status="warn">
     <Properties>
-        <Property name="basePath">/home/serzhan/IdeaProjects/matrix</Property>
+        <Property name="basePath">/home/serzhan/Desktop/prkct</Property>
     </Properties>
 
     <Appenders>

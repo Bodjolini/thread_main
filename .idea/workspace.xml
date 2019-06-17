@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="784f57ae-9491-46a7-83bb-f88950520a97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kz/kakimzhanova/thread/entity/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/kassayev/matrix/entity/Margin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kz/kakimzhanova/thread/entity/FieldsQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/kassayev/matrix/entity/MarginQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kz/kakimzhanova/thread/entity/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/kassayev/matrix/entity/Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kz/kakimzhanova/thread/entity/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/kassayev/matrix/entity/Hundler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kz/kakimzhanova/thread/exception/WrongInputDataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/kassayev/matrix/exception/OutOfIndexLimitException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kz/kakimzhanova/thread/finder/IndexFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/kassayev/matrix/service/finder/IndexFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kz/kakimzhanova/thread/finder/IndexFinderImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/kassayev/matrix/service/finder/IndexFinderImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kz/kakimzhanova/thread/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/kassayev/matrix/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kz/kakimzhanova/thread/modifier/MatrixModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/kassayev/matrix/service/modifier/MatrixModifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kz/kakimzhanova/thread/modifier/MatrixModifierImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/kassayev/matrix/service/modifier/MatrixModifierImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kz/kakimzhanova/thread/reader/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/kassayev/matrix/reader/Reader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kz/kakimzhanova/thread/report/MatrixReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/kassayev/matrix/report/MatrixReport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kz/kakimzhanova/thread/util/IdGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/kassayev/matrix/generator/IdGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/res.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="784f57ae-9491-46a7-83bb-f88950520a97" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -198,7 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="993" />
     <option name="y" value="25" />
     <option name="width" value="927" />
@@ -342,6 +324,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/gittan/thread-main/pom.xml" />
@@ -389,12 +372,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560780925136</updated>
       <workItem from="1560780929598" duration="6962000" />
-      <workItem from="1560788312370" duration="9339000" />
+      <workItem from="1560788312370" duration="9592000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16301000" />
+    <option name="totallyTimeSpent" value="16554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -408,7 +391,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -416,7 +399,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286638" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32829374" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />

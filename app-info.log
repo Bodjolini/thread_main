@@ -1,0 +1,77 @@
+[INFO ] 2019-06-18 00:31:26.079 [Thread-2] Hundler -  2 started
+[INFO ] 2019-06-18 00:31:26.079 [Thread-1] Hundler -  1 started
+[INFO ] 2019-06-18 00:31:26.081 [Thread-3] Hundler -  3 started
+[INFO ] 2019-06-18 00:31:26.086 [Thread-5] Hundler -  5 started
+[INFO ] 2019-06-18 00:31:26.087 [Thread-6] Hundler -  6 started
+[INFO ] 2019-06-18 00:31:26.079 [Thread-4] Hundler -  4 started
+[INFO ] 2019-06-18 00:31:26.090 [Thread-2] MatrixModifierImpl - Hundler: 2 matrix[0][0] was modified
+[INFO ] 2019-06-18 00:31:26.090 [Thread-1] MatrixModifierImpl - Hundler: 1 matrix[0][2] was modified
+[INFO ] 2019-06-18 00:31:26.090 [Thread-3] MatrixModifierImpl - Hundler: 3 matrix[0][1] was modified
+[INFO ] 2019-06-18 00:31:26.090 [Thread-4] MatrixModifierImpl - Hundler: 4 matrix[0][3] was modified
+[INFO ] 2019-06-18 00:31:26.091 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[0][4] was modified
+[INFO ] 2019-06-18 00:31:26.091 [Thread-6] MatrixModifierImpl - Hundler: 6 matrix[0][5] was modified
+[INFO ] 2019-06-18 00:31:26.091 [Thread-2] MatrixModifierImpl - Hundler: 2 matrix[0][7] was modified
+[INFO ] 2019-06-18 00:31:26.091 [Thread-3] MatrixModifierImpl - Hundler: 3 matrix[1][0] was modified
+[INFO ] 2019-06-18 00:31:26.091 [Thread-6] MatrixModifierImpl - Hundler: 6 matrix[0][6] was modified
+[INFO ] 2019-06-18 00:31:26.091 [Thread-4] MatrixModifierImpl - Hundler: 4 matrix[1][1] was modified
+[INFO ] 2019-06-18 00:31:26.091 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[1][3] was modified
+[INFO ] 2019-06-18 00:31:26.092 [Thread-1] MatrixModifierImpl - Hundler: 1 matrix[1][2] was modified
+[INFO ] 2019-06-18 00:31:26.092 [Thread-2] MatrixModifierImpl - Hundler: 2 matrix[1][6] was modified
+[INFO ] 2019-06-18 00:31:26.092 [Thread-1] MatrixModifierImpl - Hundler: 1 matrix[1][4] was modified
+[INFO ] 2019-06-18 00:31:26.092 [Thread-6] MatrixModifierImpl - Hundler: 6 matrix[1][7] was modified
+[INFO ] 2019-06-18 00:31:26.092 [Thread-3] MatrixModifierImpl - Hundler: 3 matrix[1][5] was modified
+[INFO ] 2019-06-18 00:31:26.092 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[2][1] was modified
+[INFO ] 2019-06-18 00:31:26.092 [Thread-4] MatrixModifierImpl - Hundler: 4 matrix[2][0] was modified
+[INFO ] 2019-06-18 00:31:26.092 [Thread-1] MatrixModifierImpl - Hundler: 1 matrix[2][3] was modified
+[INFO ] 2019-06-18 00:31:26.092 [Thread-2] MatrixModifierImpl - Hundler: 2 matrix[2][4] was modified
+[INFO ] 2019-06-18 00:31:26.093 [Thread-3] MatrixModifierImpl - Hundler: 3 matrix[2][5] was modified
+[INFO ] 2019-06-18 00:31:26.093 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[2][7] was modified
+[INFO ] 2019-06-18 00:31:26.093 [Thread-3] MatrixModifierImpl - Hundler: 3 matrix[3][0] was modified
+[INFO ] 2019-06-18 00:31:26.093 [Thread-6] MatrixModifierImpl - Hundler: 6 matrix[3][1] was modified
+[INFO ] 2019-06-18 00:31:26.093 [Thread-3] MatrixModifierImpl - Hundler: 3 matrix[3][2] was modified
+[INFO ] 2019-06-18 00:31:26.093 [Thread-6] MatrixModifierImpl - Hundler: 6 matrix[3][3] was modified
+[INFO ] 2019-06-18 00:31:26.093 [Thread-3] MatrixModifierImpl - Hundler: 3 matrix[3][4] was modified
+[INFO ] 2019-06-18 00:31:26.093 [Thread-2] MatrixModifierImpl - Hundler: 2 matrix[3][6] was modified
+[INFO ] 2019-06-18 00:31:26.093 [Thread-2] MatrixModifierImpl - Hundler: 2 matrix[3][7] was modified
+[INFO ] 2019-06-18 00:31:26.093 [Thread-6] MatrixModifierImpl - Hundler: 6 matrix[3][5] was modified
+[INFO ] 2019-06-18 00:31:26.093 [Thread-2] MatrixModifierImpl - Hundler: 2 matrix[4][0] was modified
+[INFO ] 2019-06-18 00:31:26.094 [Thread-6] MatrixModifierImpl - Hundler: 6 matrix[4][1] was modified
+[INFO ] 2019-06-18 00:31:26.093 [Thread-1] MatrixModifierImpl - Hundler: 1 matrix[2][6] was modified
+[INFO ] 2019-06-18 00:31:26.094 [Thread-3] MatrixModifierImpl - Hundler: 3 matrix[4][3] was modified
+[INFO ] 2019-06-18 00:31:26.094 [Thread-1] MatrixModifierImpl - Hundler: 1 matrix[4][4] was modified
+[INFO ] 2019-06-18 00:31:26.094 [Thread-3] MatrixModifierImpl - Hundler: 3 matrix[4][5] was modified
+[INFO ] 2019-06-18 00:31:26.094 [Thread-2] MatrixModifierImpl - Hundler: 2 matrix[4][2] was modified
+[INFO ] 2019-06-18 00:31:26.094 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[4][7] was modified
+[INFO ] 2019-06-18 00:31:26.094 [Thread-2] MatrixModifierImpl - Hundler: 2 matrix[5][0] was modified
+[INFO ] 2019-06-18 00:31:26.094 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[5][1] was modified
+[INFO ] 2019-06-18 00:31:26.094 [Thread-4] MatrixModifierImpl - Hundler: 4 matrix[2][2] was modified
+[INFO ] 2019-06-18 00:31:26.094 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[5][3] was modified
+[INFO ] 2019-06-18 00:31:26.094 [Thread-4] MatrixModifierImpl - Hundler: 4 matrix[5][4] was modified
+[INFO ] 2019-06-18 00:31:26.094 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[5][5] was modified
+[INFO ] 2019-06-18 00:31:26.094 [Thread-4] MatrixModifierImpl - Hundler: 4 matrix[5][6] was modified
+[INFO ] 2019-06-18 00:31:26.095 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[5][7] was modified
+[INFO ] 2019-06-18 00:31:26.095 [Thread-4] MatrixModifierImpl - Hundler: 4 matrix[6][0] was modified
+[INFO ] 2019-06-18 00:31:26.095 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[6][1] was modified
+[INFO ] 2019-06-18 00:31:26.095 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[6][3] was modified
+[INFO ] 2019-06-18 00:31:26.095 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[6][4] was modified
+[INFO ] 2019-06-18 00:31:26.095 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[6][5] was modified
+[INFO ] 2019-06-18 00:31:26.095 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[6][6] was modified
+[INFO ] 2019-06-18 00:31:26.095 [Thread-4] MatrixModifierImpl - Hundler: 4 matrix[6][2] was modified
+[INFO ] 2019-06-18 00:31:26.095 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[6][7] was modified
+[INFO ] 2019-06-18 00:31:26.095 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[7][1] was modified
+[INFO ] 2019-06-18 00:31:26.095 [Thread-4] MatrixModifierImpl - Hundler: 4 matrix[7][0] was modified
+[INFO ] 2019-06-18 00:31:26.096 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[7][2] was modified
+[INFO ] 2019-06-18 00:31:26.096 [Thread-4] MatrixModifierImpl - Hundler: 4 matrix[7][3] was modified
+[INFO ] 2019-06-18 00:31:26.096 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[7][4] was modified
+[INFO ] 2019-06-18 00:31:26.096 [Thread-4] MatrixModifierImpl - Hundler: 4 matrix[7][5] was modified
+[INFO ] 2019-06-18 00:31:26.096 [Thread-5] MatrixModifierImpl - Hundler: 5 matrix[7][6] was modified
+[INFO ] 2019-06-18 00:31:26.096 [Thread-4] MatrixModifierImpl - Hundler: 4 matrix[7][7] was modified
+[INFO ] 2019-06-18 00:31:26.094 [Thread-1] MatrixModifierImpl - Hundler: 1 matrix[4][6] was modified
+[INFO ] 2019-06-18 00:31:26.096 [Thread-1] MatrixModifierImpl - Hundler: 1 no fields to be modified
+[INFO ] 2019-06-18 00:31:26.096 [Thread-4] MatrixModifierImpl - Hundler: 4 no fields to be modified
+[INFO ] 2019-06-18 00:31:26.096 [Thread-6] MatrixModifierImpl - Hundler: 6 no fields to be modified
+[INFO ] 2019-06-18 00:31:26.096 [Thread-5] MatrixModifierImpl - Hundler: 5 no fields to be modified
+[INFO ] 2019-06-18 00:31:26.094 [Thread-2] MatrixModifierImpl - Hundler: 2 matrix[5][2] was modified
+[INFO ] 2019-06-18 00:31:26.096 [Thread-3] MatrixModifierImpl - Hundler: 3 no fields to be modified
+[INFO ] 2019-06-18 00:31:26.097 [Thread-2] MatrixModifierImpl - Hundler: 2 no fields to be modified
+[INFO ] 2019-06-18 00:31:26.098 [main] MatrixReport - print matrix
